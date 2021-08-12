@@ -1,0 +1,2 @@
+# hotstocks.github.io
+Web
