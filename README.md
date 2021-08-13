@@ -1,2 +1,2 @@
-# hotstocks.github.io
-Web
+# Quanta Guru
+# [Quantum Demo](https://algassert.com/quirk)
